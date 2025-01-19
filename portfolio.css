@@ -244,8 +244,10 @@ hr {
 
 .project-description {
 	padding: 90px 20px;
+	margin: 0 auto;
 	background-color: white;
 	height: 640px;
+	border-radius: 17px;
 }
 
 .project-description h2 {
